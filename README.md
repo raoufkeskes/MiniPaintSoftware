@@ -11,5 +11,5 @@ it's an academic app developed on 30 hours ( no time to make a commenting docume
 Execute the class EditorMain which is located on the  package pobj.pinboard.editor
 
 ## Unit Tests
-There are also a full package of Unit Tests 
+There are is a dedicated package for Unit Tests 
 
