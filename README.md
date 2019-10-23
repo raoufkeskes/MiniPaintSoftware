@@ -2,7 +2,7 @@
 an extensible Java Desktop App  based on Java FX as a GUI 
 
 modularity and reusability through " Design Patterns " was one of the fundamental aims of this project
-it's an academic app developed on 30 hours ( no time to make a commenting documentation for the project ) 
+it's an academic app developed through 3 weeks assignments ( no time to make a commenting documentation for the project ) 
 
 ## requirements
 - Javafx for graphics
